@@ -1,0 +1,20 @@
+.aboutt{
+
+} 
+.aboutP{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.summaryy{
+    position: relative;
+    font-size: 40px;
+    width: 300px;
+    
+}
+.detail{
+
+    padding: 10px;
+    border-radius: 10px;
+}

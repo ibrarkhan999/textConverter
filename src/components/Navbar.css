@@ -1,0 +1,98 @@
+li{
+    list-style: none;
+    display: inline;
+    margin: 0 30px;
+    cursor: pointer;
+}
+ul{
+    position: relative;
+    right: 40px;
+    top: 10px;
+
+}
+
+
+li:hover{
+    color: rgb(0, 234, 255);
+}
+
+.nav-btn{
+margin-left: 10px;
+border: 0;
+border-radius: 5px;
+background-color: rgb(95, 95, 221);
+color: white;
+height: 35px;
+width: 80px;
+
+}
+
+.nav-btn:hover{
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.srch{
+padding-left: 10px;
+border-radius: 4px;
+width: 200px;
+height: 40px;
+
+} 
+.navContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(46, 44, 44);
+    color: white;
+    padding: 10px;
+}
+.right{
+    margin-right: 60px;
+}
+
+.yellow{
+background-color: yellow;
+border-radius: 50%;
+width: 30px;
+height: 30px;
+border: 0;
+margin-right: 10px;
+}
+
+.blue{
+    background-color: blue;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    margin-right: 10px;
+}
+
+.green{
+    background-color: green;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    border: 0;
+}
+.red{
+    background-color: red;
+    border-radius: 50%;
+    margin-right: 10px;
+    width: 30px;
+    height: 30px;
+    border: 0;
+}
+
+.aStyle{
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+
+}
+
+.linkStyle:hover{
+    color: rgb(0, 234, 255);
+}

@@ -1,0 +1,16 @@
+.icon{
+    margin: 0  10px;
+    font-size: 30px;
+}
+.icon a{
+    text-decoration: none;
+    
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    gap: 20px;
+}
