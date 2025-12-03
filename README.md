@@ -6,7 +6,7 @@ A simple web tool to convert and transform text — makes it easy to change text
 
 ## ✨ Features
 
-- Convert text (uppercase, lowercase, maybe capitalize or other transformations)  
+- Convert text (uppercase, lowercase,  capitalize or other transformations)  
 - Clean and simple UI — works in any modern browser  
 - Frontend only — no backend needed  
 
